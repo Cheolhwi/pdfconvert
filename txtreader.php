@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDFconverter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+</html>
 <?php
 $file_name="resource/test.txt";
 $fp=fopen($file_name, "rb");
